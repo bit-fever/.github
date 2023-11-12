@@ -5,13 +5,14 @@
 
 ## Current status
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Component             | Status | Notes |
+|-----------------------|--------|-------|
+| Gateway               | 100%   |       |
+| Web user interface    | 10%    |       |
+| Inventory Server      | 10%    |       |
+| Portfolio Trader      | 10%    |       |
+| Data Collector        | 0%     |       |
+| System Adapter        | 0%     |       |
+| Shell                 | 10%    |       |
+| Strategy Fetcher      | 100%   |       |
+| Keycloak integration  | 100%   |       |
