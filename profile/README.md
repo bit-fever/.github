@@ -13,7 +13,7 @@ What you won't find here:
 - All tools needed for a discretionary trader
 
 ![screenshot](diagrams/bit-fever.png)
-<p align="center"><img width="400" src="diagrams/bit-fever.png"></p>
+<p align="center"><img width="400" src="./diagrams/bit-fever.png"></p>
 
 ## Components
 
